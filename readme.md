@@ -32,7 +32,7 @@ Developers: Wei Wu (Los Alamos National Lab), Jinmian Ye (UESTC), and Yiyang Zha
 
 ### Joining us?
 
-For for information, please contact wangnan318@gmail.com. We're also looking for people to collaborate on this project, please feel free email me if you're interested.
+For for information, please contact wangnan318@gmail.com. We're also looking for people to collaborate on this project, please feel free to email me if you're interested.
 
 Please cite Superneurons in your publications if it helps your research:
 <p>
