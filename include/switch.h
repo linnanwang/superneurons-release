@@ -1,0 +1,2 @@
+// #define BENCHMARK
+// #define DEBUG

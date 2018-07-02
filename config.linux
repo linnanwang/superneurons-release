@@ -1,0 +1,11 @@
+CUDA_ROOT_DIR=/usr/local/cuda
+CUDNN_ROOT_DIR=/data/lwang53/lib/cuDNN7.0
+
+GLOG_ROOT=/data/lwang53/lib/glog
+
+# example
+# LIBJPEG_INCLUDE_DIR = /usr/include/
+# LIBJPEG_LIB_FILE = /usr/lib/x86_64-linux-gnu/libjpeg.so
+
+# MPI_INCLUDE_DIR =
+# MPI_LIB_FILE =

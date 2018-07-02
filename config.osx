@@ -1,0 +1,11 @@
+CUDA_ROOT_DIR=/usr/local/cuda
+CUDNN_ROOT_DIR=/Users/linnan/Desktop/cuDNN-OSX
+
+GLOG_ROOT=/usr/local
+
+# example
+# LIBJPEG_INCLUDE_DIR = /usr/include/
+# LIBJPEG_LIB_FILE = /usr/local/lib/libjpeg.dylib
+
+# MPI_INCLUDE_DIR =
+# MPI_LIB_FILE =
