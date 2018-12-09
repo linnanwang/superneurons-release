@@ -28,7 +28,7 @@ The testing folder has a variety of networks.
 ### Contributors
 Chief Architect: Linnan Wang (Brown University)
 
-Developers: Wei Wu (Los Alamos National Lab), Jinmian Ye (UESTC), and Yiyang Zhao (Northeastern University)
+Developers: Wei Wu (Los Alamos National Lab) and Yiyang Zhao (Northeastern University)
 
 ### Joining us?
 
@@ -38,3 +38,8 @@ Please cite Superneurons in your publications if it helps your research:
 <p>
 Wang, Linnan, et al. "Superneurons: dynamic GPU memory management for training deep neural networks." Proceedings of the 23rd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming. ACM, 2018.
 </p>
+<p>
+Wang, Linnan, Wei Wu, Yiyang Zhao, Junyu Zhang, Hang Liu, George Bosilca, Jack Dongarra, Maurice Herlihy, and Rodrigo Fonseca. "SuperNeurons: FFT-based Gradient Sparsification in the Distributed Training of Deep Neural Networks." arXiv preprint arXiv:1811.08596 (2018).
+</p>
+
+
