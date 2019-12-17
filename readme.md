@@ -4,7 +4,7 @@
 
 Superneurons is a brand new deep learning framework built for HPC. It is written in C++ and the codes are easy to modify to work for major HPC libraries.
 
-The first release is a mere demonstration of framework architecture. As a graduate student, I'm no longer able to maintain the code, and I decided to invest much of my energy on Neural Architecture Search. Though it starts with a dream of building a high performance DL framework for Supercomputers, it looks like Tensorflow and Pytorch have pretty much good coverage of different needs, and sometimes, the performance really not that matters. Similar fate also happens to Chainer, which also no longer be supported. Therefore, the feast of DL frameworks has come to an end, and please try to figure out some new directions.
+The first release is a mere demonstration of framework architecture. As a graduate student, I'm no longer able to maintain the code, and I decided to invest much of my energy on Neural Architecture Search. Though it starts with a dream of building a high performance DL framework for Supercomputers, it looks like Tensorflow and Pytorch have pretty much good coverage of different needs, and sometimes, the performance really not that matters. Similar fate also happens to Chainer. Therefore, the feast of DL frameworks has come to an end, and please try to figure out some new directions.
 
 
 ### installation,
