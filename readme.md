@@ -27,7 +27,7 @@ The testing folder has a variety of networks.
 ### Contributors
 Chief Architect: Linnan Wang (Brown University)
 
-Developers: Jinmian Ye (UESTC) and Yiyang Zhao (Northeastern University)
+Developers: Jinmian Ye (UESTC) and Yiyang Zhao (WPI)
 
 For for information, please contact wangnan318@gmail.com. We're also looking for people to collaborate on this project, please feel free to email me if you're interested.
 
